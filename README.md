@@ -62,9 +62,3 @@ Permission is hereby granted for any modification, publishing, distributing and/
 0. The persons must have an adequate amount of drip  
 
 ```
-
-
-But seriously VSCode, what the hell is this icon  
-![](img/license.png)
-
-Blame [@jeremynoesen](https://github.com/jeremynoesen) for this being a thing  
